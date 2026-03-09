@@ -1,0 +1,5 @@
+{
+  "name": "FriendChat Messenger",
+  "description": "A real-time messenger application with friend requests, notifications, and chat.",
+  "requestFramePermissions": []
+}
